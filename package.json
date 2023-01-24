@@ -1,0 +1,23 @@
+{
+  "name": "spies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmoraesdev/spies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmoraesdev/spies/issues"
+  },
+  "homepage": "https://github.com/lmoraesdev/spies#readme",
+  "devDependencies": {
+    "sinon": "^9.2.4"
+  }
+}
